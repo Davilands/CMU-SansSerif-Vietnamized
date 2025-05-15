@@ -1,0 +1,18 @@
+Copyright © 2025 Dang Tran Huu
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+You are free to use, modify, and distribute this font (commercially and non-commercially), as long as you:
+- Do not sell the font on its own
+- Include this license file in all copies
+- Give proper attribution to the original and modifying authors
+
+== Attribution ==
+Original base font: [CMU SansSerif]  
+Vietnamese customization: Dang Tran Huu (https://dangth.dev)
+
+== License Terms ==
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.  
+This license is available at: https://scripts.sil.org/OFL
+
