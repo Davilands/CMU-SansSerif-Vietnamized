@@ -11,7 +11,7 @@
 
 ## 📄 Bản quyền
 
-Font gốc: [Tên font gốc hoặc nguồn](#)  
+Font gốc: [CMU-Sans-Serif](https://online-fonts.com/fonts/cmu-sans-serif)  
 Việt hóa bởi: **Dang Tran Huu**  
 Giấy phép: **MIT License** (xem `LICENSE.txt`)
 
