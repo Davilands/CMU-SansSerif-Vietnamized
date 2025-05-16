@@ -2,6 +2,8 @@
 
 Đây là phiên bản Việt hóa của một font mã nguồn mở, được mình (Dang Tran Huu) tùy chỉnh để hỗ trợ đầy đủ bảng chữ cái tiếng Việt có dấu (gồm 134 ký tự in thường và in hoa). Font này hiện đang được sử dụng trên blog cá nhân của mình: [https://dangth.dev](https://dangth.dev)
 
+![](./screenshoot.png)
+
 ## ✨ Tính năng
 
 - ✅ Hỗ trợ đầy đủ tiếng Việt (dấu thanh, chữ ghép, `ă â ê ô ơ ư đ`…)
@@ -44,11 +46,3 @@ Made with ☕ & ❤️ by Dang Tran Huu
 
 
 ---
-
-## ✅ Việc tiếp theo bạn nên làm:
-1. Đặt file này cạnh font → thêm vào bản `.zip` release
-2. Hoặc push vào repo chứa font nếu bạn public trên GitHub
-
----
-
-Muốn mình xuất sẵn file `.zip` với thư mục cấu trúc chuẩn? Hoặc tạo `test.html` auto hiển thị toàn bộ tiếng Việt với font bạn vừa Việt hóa? Mình làm giúp luôn!
