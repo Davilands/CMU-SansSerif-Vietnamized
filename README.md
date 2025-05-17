@@ -2,7 +2,7 @@
 
 Đây là phiên bản Việt hóa của một font mã nguồn mở, được mình (Dang Tran Huu) tùy chỉnh để hỗ trợ đầy đủ bảng chữ cái tiếng Việt có dấu (gồm 134 ký tự in thường và in hoa). Font này hiện đang được sử dụng trên blog cá nhân của mình: [https://dangth.dev](https://dangth.dev)
 
-![](./screenshoot.png)
+![](./screen-shoot.png)
 
 ## ✨ Tính năng
 
